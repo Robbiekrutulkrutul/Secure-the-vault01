@@ -1,7 +1,10 @@
+code1
 let code1;
 code1= 7+3;
 const code2= 60-40/2;
 const code3= 37+(5%3);
+let codeA= "10-40-39";
+let codeB= '10-40-39';
 
 const message=The vault has been secured. The combination is:';
 const codeA=code1+"-"+code2+"-"+code3;
